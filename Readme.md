@@ -1,7 +1,7 @@
 # Личный проект «Киноман» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ольга Вадясова](https://up.htmlacademy.ru/ecmascript/12/user/46068).
-* Наставник: `Неизвестно`.
+* Наставник: `самСебеНаставник`.
 
 ---
 
